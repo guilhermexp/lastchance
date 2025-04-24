@@ -1,0 +1,1 @@
+// Serviço Gemini sem chaves

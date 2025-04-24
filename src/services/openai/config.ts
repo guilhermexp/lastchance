@@ -1,0 +1,1 @@
+// URLconfiguração OpenAI sem chaves
